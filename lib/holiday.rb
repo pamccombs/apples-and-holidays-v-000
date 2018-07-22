@@ -71,7 +71,7 @@ holiday_hash.each do |season, holiday|
 end
   holiday.each do |holiday_name, symbols|
   puts holiday_name : symbols
-    end
+    
   end
   binding.pry
 end
