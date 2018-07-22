@@ -55,7 +55,7 @@ holiday_hash[:winter].each do |holiday_name, supplies|
   winter_supplies << supplies
 end
 #binding.pry
-all_winter_holiday_supplies
+winter_supplies
 end
 
 def all_supplies_in_holidays(holiday_hash)
