@@ -72,7 +72,7 @@ holiday_hash.each do |season, holiday|
   puts "#{holiday}" : "#{symbols}"
     end
   end
-  #binding.pry
+  binding.pry
 end
 
 def all_holidays_with_bbq(holiday_hash)
