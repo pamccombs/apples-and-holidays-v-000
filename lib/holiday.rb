@@ -55,6 +55,7 @@ holiday_hash[:winter].each do |holiday_name, supplies|
   winter_supplies << supplies
 binding.pry
 end
+end
 
 def all_supplies_in_holidays(holiday_hash)
   # iterate through holiday_hash and print items such that your readout resembles:
