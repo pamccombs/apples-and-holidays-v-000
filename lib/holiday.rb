@@ -73,7 +73,7 @@ end
   puts holiday_name : symbols
   end
   end
-  binding.pry
+  #binding.pry
 end
 
 def all_holidays_with_bbq(holiday_hash)
