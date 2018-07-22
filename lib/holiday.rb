@@ -70,7 +70,6 @@ holiday_hash.each do |season, holiday|
   puts season : holiday
   holiday.each do |holiday, symbols|
   puts holiday : symbols
-end
     end
   end
   #binding.pry
